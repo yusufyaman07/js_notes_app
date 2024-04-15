@@ -17,6 +17,7 @@ Hello, in this project I developed a notes application with html, css and js.
 - Afterwards, by clicking '...' at the bottom of the note, the user is allowed to customize with 'delete' and 'edit' options.
 
 # Preview
+![note_app](https://github.com/yusufyaman07/js_notes_app/assets/148998418/c3984610-9cd2-4293-a914-c209fe3c66af)
 
 
 
